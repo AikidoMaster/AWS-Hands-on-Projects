@@ -1,4 +1,4 @@
-Here's the rewritten `README.md` without mentioning the author:
+
 
 ---
 
