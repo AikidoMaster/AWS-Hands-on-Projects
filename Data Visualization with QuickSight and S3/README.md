@@ -1,8 +1,7 @@
 
 
----
 
-#Data Visualisation with AWS QuickSight and Amazon S3
+# Data Visualisation with AWS QuickSight and Amazon S3
 
 In today's data-driven world, the ability to transform raw information into actionable insights is paramount. Data visualization plays a central role in this transformation. This guide delves into the potent combination of AWS QuickSight and Amazon S3, showcasing their ability to turn your data into compelling visual representations. Whether you're an entrepreneur, data analyst, or executive, this guide will empower you to harness the full potential of AWS QuickSight's data visualization capabilities.
 
